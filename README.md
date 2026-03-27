@@ -46,12 +46,14 @@ It compiles over 60 detailed electricity consumption datasets encompassing appro
 All processed datasets contain hourly data, with some offering additional 15-minute and 30-minute resolution. To ensure efficient storage, we saved the datasets in Parquet format rather than CSV. For datasets involving a large number of buildings, we partitioned the data into multiple Parquet files.
 
 Table 1: Summary of EnergBench dataset (Real Buildings)
+
 | Category    | # Datasets | # Buildings | # Days | # Hourly Obs |
 |-------------|-------------|--------------|---------|--------|
 | Commercial  | 20          | 2,916        | 16,706  | 62M    |
 | Residential | 47          | 75,121       | 43,852  | 1.2B   |
 
 Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
+
 | Category    | # Datasets | # Buildings | # Days | # Hourly Obs |
 |-------------|-------------|--------------|---------|--------|
 | Commercial  | 1           | 207,559      | 365     | ~1.7B  |
