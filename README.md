@@ -69,7 +69,11 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         </details>
         <details>
         <summary><b>Weather Correlation</b></summary>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Commercial/BDG-2_weather_sensitivity_heatmap.png" target="_blank">BDG-2 Weather Sensitivity Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Commercial/BDG-2_weather_sensitivity_part_1.png" target="_blank">BDG-2 Weather Sensitivity Heatmap-1</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Commercial/BDG-2_weather_sensitivity_part_2.png" target="_blank">BDG-2 Weather Sensitivity Heatmap-2</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Commercial/BDG-2_weather_sensitivity_part_3.png" target="_blank">BDG-2 Weather Sensitivity Heatmap-3</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Commercial/BDG-2_weather_sensitivity_part_4.png" target="_blank">BDG-2 Weather Sensitivity Heatmap-4</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Commercial/BDG-2_weather_sensitivity_part_5.png" target="_blank">BDG-2 Weather Sensitivity Heatmap-5</a></li></ul>
         </details>
         <details>
         <summary><b>Breakout</b></summary>
@@ -84,11 +88,11 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         </details>
         <details>
         <summary><b>Weather Correlation</b></summary>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Commercial/Berkely_weather_sensitivity_heatmap.png" target="_blank">Berkely Weather Sensitivity Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Commercial/Berkeley_weather_sensitivity_heatmap.png" target="_blank">Berkely Weather Sensitivity Heatmap</a></li></ul>
         </details>
         <details>
         <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Commercial/Berkely_Breakout_Heatmap.png" target="_blank">Berkely Breakout Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Commercial/Berkeley_Breakout_Heatmap.png" target="_blank">Berkely Breakout Heatmap</a></li></ul>
         </details>
     
 * **BPDB:** Collected from **one building** in **Bangladesh**, this dataset spans from **January 1, 2018, to April 30, 2023 (1,945 days)**. It features a source and processed resolution of **1-day**. (CC BY 4.0)
@@ -189,11 +193,11 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         </details>
         <details>
         <summary><b>Weather Correlation</b></summary>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Commercial/IBlend_weather_sensitivity_heatmap.png" target="_blank">I-Blend Weather Sensitivity Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Commercial/Iblend_weather_sensitivity_heatmap.png" target="_blank">I-Blend Weather Sensitivity Heatmap</a></li></ul>
         </details>
         <details>
         <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Commercial/IBlend_Breakout_Heatmap.png" target="_blank">I-Blend Breakout Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Commercial/Iblend_Breakout_Heatmap.png" target="_blank">I-Blend Breakout Heatmap</a></li></ul>
         </details>
     
 * **IOT:** Collected from **one building** at the **University of Sharjah** from **January 1, 2024, to June 20, 2024 (171 days)**. Data was processed from a 12-hour source resolution to a **daily resolution**. (CC BY 4.0)
@@ -206,10 +210,6 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <summary><b>Weather Correlation</b></summary>
         <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Commercial/IOT_weather_sensitivity_heatmap.png" target="_blank">IOT Weather Sensitivity Heatmap</a></li></ul>
         </details>
-        <details>
-        <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Commercial/IOT_Breakout_Heatmap.png" target="_blank">IOT Breakout Heatmap</a></li></ul>
-        </details>
     
 * **IPC-Commercial:** Includes electricity consumption for **3 buildings** within an industrial park in **China** from **January 1, 2016, to December 31, 2021 (2,191 days)** at an **hourly resolution**. (CC BY 4.0)
     * **Visualizations:**
@@ -219,11 +219,11 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         </details>
         <details>
         <summary><b>Weather Correlation</b></summary>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Commercial/IPC-Commercial_weather_sensitivity_heatmap.png" target="_blank">IPC Weather Sensitivity Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Commercial/IPC_weather_sensitivity_heatmap.png" target="_blank">IPC Weather Sensitivity Heatmap</a></li></ul>
         </details>
         <details>
         <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Commercial/IPC-Commercial_Breakout_Heatmap.png" target="_blank">IPC Breakout Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Commercial/IPC_Breakout_Heatmap.png" target="_blank">IPC Breakout Heatmap</a></li></ul>
         </details>
     
 * **NEST-Commercial:** Open building data from **one building** in **Switzerland** recorded from **July 1, 2019, to June 30, 2023 (1,460 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**. (CC BY 4.0)
@@ -234,11 +234,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         </details>
         <details>
         <summary><b>Weather Correlation</b></summary>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Commercial/NEST-Commercial_weather_sensitivity_heatmap.png" target="_blank">NEST Weather Sensitivity Heatmap</a></li></ul>
-        </details>
-        <details>
-        <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Commercial/NEST-Commercial_Breakout_Heatmap.png" target="_blank">NEST Breakout Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Commercial/NEST_weather_sensitivity_heatmap.png" target="_blank">NEST Weather Sensitivity Heatmap</a></li></ul>
         </details>
     
 * **PSS:** Data from **53 buildings** in the **Western Cape, South Africa**, spanning **December 1, 2022, to November 30, 2023 (364 days)** with **30-minute and 1-hour processed resolutions**. (CC BY 4.0)
@@ -250,10 +246,6 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <details>
         <summary><b>Weather Correlation</b></summary>
         <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Commercial/PSS_weather_sensitivity_heatmap.png" target="_blank">PSS Weather Sensitivity Heatmap</a></li></ul>
-        </details>
-        <details>
-        <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Commercial/PSS_Breakout_Heatmap.png" target="_blank">PSS Breakout Heatmap</a></li></ul>
         </details>
     
 * **SEWA:** Provided by the Sharjah Electricity and Water Authority, this data from **one site** in the **UAE** spans **January 1, 2020, to December 31, 2021 (730 days)** at an **hourly resolution**. (CC BY 4.0)
@@ -311,10 +303,6 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <summary><b>Weather Correlation</b></summary>
         <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Commercial/ULE_weather_sensitivity_heatmap.png" target="_blank">ULE Weather Sensitivity Heatmap</a></li></ul>
         </details>
-        <details>
-        <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Commercial/ULE_Breakout_Heatmap.png" target="_blank">ULE Breakout Heatmap</a></li></ul>
-        </details>
     
 * **UNICON:** Includes measurements across **64 buildings** in **Australia** from **January 1, 2018, to April 30, 2022 (1,580 days)** with **15-minute, 30-minute and 1-hour processed resolutions**. (CC BY-NC-SA 4.0)
     * **Visualizations:**
@@ -342,10 +330,6 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <details>
         <summary><b>Weather Correlation</b></summary>
         <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/AMPD_weather_sensitivity_heatmap.png" target="_blank">AMPD Weather Sensitivity Heatmap</a></li></ul>
-        </details>
-        <details>
-        <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/AMPD_Breakout_Heatmap.png" target="_blank">AMPD Breakout Heatmap</a></li></ul>
         </details>
     
 * **CEEW:** Electricity consumption from **84 smart meters** in **India** spanning **May 1, 2019, to October 31, 2021 (914 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**. (CC0 1.0)
@@ -425,7 +409,11 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         </details>
         <details>
         <summary><b>Weather Correlation</b></summary>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/DTH_weather_sensitivity_heatmap.png" target="_blank">DTH Weather Sensitivity Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/DTH_weather_sensitivity_part_1.png" target="_blank">DTH Weather Sensitivity Heatmap-1</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/DTH_weather_sensitivity_part_2.png" target="_blank">DTH Weather Sensitivity Heatmap-2</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/DTH_weather_sensitivity_part_3.png" target="_blank">DTH Weather Sensitivity Heatmap-3</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/DTH_weather_sensitivity_part_4.png" target="_blank">DTH Weather Sensitivity Heatmap-4</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/DTH_weather_sensitivity_part_5.png" target="_blank">DTH Weather Sensitivity Heatmap-5</a></li></ul>
         </details>
         <details>
         <summary><b>Breakout</b></summary>
@@ -442,10 +430,6 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <summary><b>Weather Correlation</b></summary>
         <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/ECCG_weather_sensitivity_heatmap.png" target="_blank">ECCG Weather Sensitivity Heatmap</a></li></ul>
         </details>
-        <details>
-        <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/ECCG_Breakout_Heatmap.png" target="_blank">ECCG Breakout Heatmap</a></li></ul>
-        </details>
     
 * **ECWM:** Data from **one residential house** in **Mexico** spanning **November 5, 2022, to January 5, 2024 (426 days)** at a **1-hour resolution**. (CC BY 4.0)
     * **Visualizations:**
@@ -457,10 +441,6 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <summary><b>Weather Correlation</b></summary>
         <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/ECWM_weather_sensitivity_heatmap.png" target="_blank">ECWM Weather Sensitivity Heatmap</a></li></ul>
         </details>
-        <details>
-        <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/ECWM_Breakout_Heatmap.png" target="_blank">ECWM Breakout Heatmap</a></li></ul>
-        </details>
     
 * **flEECe:** Data for **6 houses** in **Virginia, USA**, spanning **July 6, 2017, to March 22, 2018 (259 days)** at a **1-hour resolution**. (CC BY 4.0)
     * **Visualizations:**
@@ -471,10 +451,6 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <details>
         <summary><b>Weather Correlation</b></summary>
         <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/flEECe_weather_sensitivity_heatmap.png" target="_blank">flEECe Weather Sensitivity Heatmap</a></li></ul>
-        </details>
-        <details>
-        <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/flEECe_Breakout_Heatmap.png" target="_blank">flEECe Breakout Heatmap</a></li></ul>
         </details>
     
 * **GoiEner:** Data from **25,559 buildings** in **Spain** spanning **November 2, 2014, to June 8, 2022 (2,775 days)** at a **1-hour resolution**. (CC BY 4.0)
@@ -535,15 +511,11 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
-        <ul><li><a href="Visualization/Data_Quality_Heatmaps/Residential/Honda SMART Home_data_quality_heatmap.png" target="_blank">Honda SMART Home Data Quality Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Data_Quality_Heatmaps/Residential/Honda-Smart-Home_data_quality_heatmap.png" target="_blank">Honda SMART Home Data Quality Heatmap</a></li></ul>
         </details>
         <details>
         <summary><b>Weather Correlation</b></summary>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/Honda SMART Home_weather_sensitivity_heatmap.png" target="_blank">Honda SMART Home Weather Sensitivity Heatmap</a></li></ul>
-        </details>
-        <details>
-        <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/Honda SMART Home_Breakout_Heatmap.png" target="_blank">Honda SMART Home Breakout Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/Honda-Smart-Home_weather_sensitivity_heatmap.png" target="_blank">Honda SMART Home Weather Sensitivity Heatmap</a></li></ul>
         </details>
     
 * **HSG:** Data from **11 households** in **Germany** from **December 11, 2014, to May 1, 2019 (1,602 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**.
@@ -571,11 +543,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <summary><b>Weather Correlation</b></summary>
         <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/HUE_weather_sensitivity_heatmap.png" target="_blank">HUE Weather Sensitivity Heatmap</a></li></ul>
         </details>
-        <details>
-        <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/HUE_Breakout_Heatmap.png" target="_blank">HUE Breakout Heatmap</a></li></ul>
-        </details>
-    
+
 * **iFlex:** Data from **4,429 households** in **Norway** from **January 6, 2020, to March 26, 2021 (445 days)** at a **1-hour resolution**. (CC BY 4.0)
     * **Visualizations:**
         <details>
@@ -610,15 +578,15 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
-        <ul><li><a href="Visualization/Data_Quality_Heatmaps/Residential/IPC-Residential_data_quality_heatmap.png" target="_blank">IPC-Residential Data Quality Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Data_Quality_Heatmaps/Residential/IPC_data_quality_heatmap.png" target="_blank">IPC-Residential Data Quality Heatmap</a></li></ul>
         </details>
         <details>
         <summary><b>Weather Correlation</b></summary>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/IPC-Residential_weather_sensitivity_heatmap.png" target="_blank">IPC-Residential Weather Sensitivity Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/IPC_weather_sensitivity_heatmap.png" target="_blank">IPC-Residential Weather Sensitivity Heatmap</a></li></ul>
         </details>
         <details>
         <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/IPC-Residential_Breakout_Heatmap.png" target="_blank">IPC-Residential Breakout Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/IPC_Breakout_Heatmap.png" target="_blank">IPC-Residential Breakout Heatmap</a></li></ul>
         </details>
     
 * **IRH:** Load profiles for an energy community of **15 households** in **Ireland** for **366 days (January 1, 2020, to January 1, 2021)**. Processed at **15-minute, 30-minute and 1-hour resolutions**. (CC BY 4.0)
@@ -644,11 +612,19 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         </details>
         <details>
         <summary><b>Weather Correlation</b></summary>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/LCL_weather_sensitivity_heatmap.png" target="_blank">LCL Weather Sensitivity Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/LCL-1_weather_sensitivity_heatmap.png" target="_blank">LCL Weather Sensitivity Heatmap-1</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/LCL-2_weather_sensitivity_heatmap.png" target="_blank">LCL Weather Sensitivity Heatmap-2</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/LCL-3_weather_sensitivity_heatmap.png" target="_blank">LCL Weather Sensitivity Heatmap-3</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/LCL-4_weather_sensitivity_heatmap.png" target="_blank">LCL Weather Sensitivity Heatmap-4</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/LCL-5_weather_sensitivity_heatmap.png" target="_blank">LCL Weather Sensitivity Heatmap-5</a></li></ul>
         </details>
         <details>
         <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/LCL_Breakout_Heatmap.png" target="_blank">LCL Breakout Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/LCL-1_Breakout_Heatmap.png" target="_blank">LCL Breakout Heatmap-1</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/LCL-2_Breakout_Heatmap.png" target="_blank">LCL Breakout Heatmap-2</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/LCL-3_Breakout_Heatmap.png" target="_blank">LCL Breakout Heatmap-3</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/LCL-4_Breakout_Heatmap.png" target="_blank">LCL Breakout Heatmap-4</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/LCL-5_Breakout_Heatmap.png" target="_blank">LCL Breakout Heatmap-5</a></li></ul>
         </details>
     
 * **LEC:** Measurements from **172 buildings** in **Portugal** spanning **May 5, 2022, to September 2, 2023 (485 days)** at **15-minute, 30-minute and 1-hour resolutions**. (CC BY 4.0)
@@ -721,24 +697,20 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <summary><b>Weather Correlation</b></summary>
         <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/NESEMP_weather_sensitivity_heatmap.png" target="_blank">NESEMP Weather Sensitivity Heatmap</a></li></ul>
         </details>
-        <details>
-        <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/NESEMP_Breakout_Heatmap.png" target="_blank">NESEMP Breakout Heatmap</a></li></ul>
-        </details>
     
 * **NEST-Residential:** Open building data from **2 buildings** in **Switzerland** recorded from **July 1, 2019, to June 30, 2023 (1,460 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**. (CC BY 4.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
-        <ul><li><a href="Visualization/Data_Quality_Heatmaps/Residential/NEST-Residential_data_quality_heatmap.png" target="_blank">NEST-Residential Data Quality Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Data_Quality_Heatmaps/Residential/NEST_data_quality_heatmap.png" target="_blank">NEST-Residential Data Quality Heatmap</a></li></ul>
         </details>
         <details>
         <summary><b>Weather Correlation</b></summary>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/NEST-Residential_weather_sensitivity_heatmap.png" target="_blank">NEST-Residential Weather Sensitivity Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/NEST_weather_sensitivity_heatmap.png" target="_blank">NEST-Residential Weather Sensitivity Heatmap</a></li></ul>
         </details>
         <details>
         <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/NEST-Residential_Breakout_Heatmap.png" target="_blank">NEST-Residential Breakout Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/NEST_Breakout_Heatmap.png" target="_blank">NEST-Residential Breakout Heatmap</a></li></ul>
         </details>
     
 * **Norwegian:** Consumption data for **1,136 households** in **Norway** spanning **October 1, 2020, to March 31, 2022 (546 days)** at a **1-hour resolution**. (CC BY 4.0)
@@ -749,11 +721,15 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         </details>
         <details>
         <summary><b>Weather Correlation</b></summary>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/Norwegian_weather_sensitivity_heatmap.png" target="_blank">Norwegian Weather Sensitivity Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/Norwegian-1_weather_sensitivity_heatmap.png" target="_blank">Norwegian Weather Sensitivity Heatmap-1</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/Norwegian-2_weather_sensitivity_heatmap.png" target="_blank">Norwegian Weather Sensitivity Heatmap-2</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/Norwegian-3_weather_sensitivity_heatmap.png" target="_blank">Norwegian Weather Sensitivity Heatmap-3</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/Norwegian-4_weather_sensitivity_heatmap.png" target="_blank">Norwegian Weather Sensitivity Heatmap-4</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/Norwegian-5_weather_sensitivity_heatmap.png" target="_blank">Norwegian Weather Sensitivity Heatmap-5</a></li></ul>
         </details>
         <details>
         <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/Norwegian_Breakout_Heatmap.png" target="_blank">Norwegian Breakout Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/Norwegian_breakout_heatmap.png" target="_blank">Norwegian Breakout Heatmap</a></li></ul>
         </details>
     
 * **PES:** Data from **10 private homes** in the **USA and Europe** spanning **June 3, 2011, to January 29, 2014 (971 days)** at **15-minute, 30-minute and 1-hour resolutions**.
@@ -801,21 +777,6 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/Prayas_Breakout_Heatmap.png" target="_blank">Prayas Breakout Heatmap</a></li></ul>
         </details>
     
-* **REED:** Monitoring data from **46 households** in **Costa Rica** for **384 days (January 12, 2018, to January 31, 2019)**. Processed at **15-minute, 30-minute and 1-hour resolutions**. (CC BY 4.0)
-    * **Visualizations:**
-        <details>
-        <summary><b>Data Quality</b></summary>
-        <ul><li><a href="Visualization/Data_Quality_Heatmaps/Residential/REED_data_quality_heatmap.png" target="_blank">REED Data Quality Heatmap</a></li></ul>
-        </details>
-        <details>
-        <summary><b>Weather Correlation</b></summary>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/REED_weather_sensitivity_heatmap.png" target="_blank">REED Weather Sensitivity Heatmap</a></li></ul>
-        </details>
-        <details>
-        <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/REED_Breakout_Heatmap.png" target="_blank">REED Breakout Heatmap</a></li></ul>
-        </details>
-    
 * **REFIT:** Electrical measurements for **20 UK households** over **568 days (December 17, 2013, to July 8, 2015)**. Processed at **15-minute, 30-minute and 1-hour resolutions**. (CC BY 4.0)
     * **Visualizations:**
         <details>
@@ -841,10 +802,6 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <summary><b>Weather Correlation</b></summary>
         <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/RHC_weather_sensitivity_heatmap.png" target="_blank">RHC Weather Sensitivity Heatmap</a></li></ul>
         </details>
-        <details>
-        <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/RHC_Breakout_Heatmap.png" target="_blank">RHC Breakout Heatmap</a></li></ul>
-        </details>
     
 * **SAVE:** Data for **4,691 households** in the **UK** spanning **July 9, 2016, to December 30, 2018 (904 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**.
     * **Visualizations:**
@@ -854,11 +811,19 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         </details>
         <details>
         <summary><b>Weather Correlation</b></summary>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SAVE_weather_sensitivity_heatmap.png" target="_blank">SAVE Weather Sensitivity Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SAVE-1_weather_sensitivity_heatmap.png" target="_blank">SAVE Weather Sensitivity Heatmap-1</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SAVE-2_weather_sensitivity_heatmap.png" target="_blank">SAVE Weather Sensitivity Heatmap-2</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SAVE-3_weather_sensitivity_heatmap.png" target="_blank">SAVE Weather Sensitivity Heatmap-3</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SAVE-4_weather_sensitivity_heatmap.png" target="_blank">SAVE Weather Sensitivity Heatmap-4</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SAVE-5_weather_sensitivity_heatmap.png" target="_blank">SAVE Weather Sensitivity Heatmap-5</a></li></ul>
         </details>
         <details>
         <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/SAVE_Breakout_Heatmap.png" target="_blank">SAVE Breakout Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/SAVE-1_Breakout_Heatmap.png" target="_blank">SAVE Breakout Heatmap-1</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/SAVE-2_Breakout_Heatmap.png" target="_blank">SAVE Breakout Heatmap-2</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/SAVE-3_Breakout_Heatmap.png" target="_blank">SAVE Breakout Heatmap-3</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/SAVE-4_Breakout_Heatmap.png" target="_blank">SAVE Breakout Heatmap-4</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/SAVE-5_Breakout_Heatmap.png" target="_blank">SAVE Breakout Heatmap-5</a></li></ul>
         </details>
     
 * **SFAC:** Data for **one apartment** in **China** from **May 31, 2021, to June 1, 2022 (366 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**. (CC BY 4.0)
@@ -886,10 +851,6 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <summary><b>Weather Correlation</b></summary>
         <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SFHG_weather_sensitivity_heatmap.png" target="_blank">SFHG Weather Sensitivity Heatmap</a></li></ul>
         </details>
-        <details>
-        <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/SFHG_Breakout_Heatmap.png" target="_blank">SFHG Breakout Heatmap</a></li></ul>
-        </details>
     
 * **SGSC:** Trial data for **13,735 households** in **Australia** spanning **October 6, 2011, to March 4, 2014 (880 days)** at **30-minute and 1-hour resolutions**.
     * **Visualizations:**
@@ -899,26 +860,34 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         </details>
         <details>
         <summary><b>Weather Correlation</b></summary>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SGSC_weather_sensitivity_heatmap.png" target="_blank">SGSC Weather Sensitivity Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SGSC-1_weather_sensitivity_heatmap.png" target="_blank">SGSC Weather Sensitivity Heatmap-1</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SGSC-2_weather_sensitivity_heatmap.png" target="_blank">SGSC Weather Sensitivity Heatmap-2</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SGSC-3_weather_sensitivity_heatmap.png" target="_blank">SGSC Weather Sensitivity Heatmap-3</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SGSC-4_weather_sensitivity_heatmap.png" target="_blank">SGSC Weather Sensitivity Heatmap-4</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SGSC-5_weather_sensitivity_heatmap.png" target="_blank">SGSC Weather Sensitivity Heatmap-5</a></li></ul>
         </details>
         <details>
         <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/SGSC_Breakout_Heatmap.png" target="_blank">SGSC Breakout Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/SGSC-1_Breakout_Heatmap.png" target="_blank">SGSC Breakout Heatmap-1</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/SGSC-2_Breakout_Heatmap.png" target="_blank">SGSC Breakout Heatmap-2</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/SGSC-3_Breakout_Heatmap.png" target="_blank">SGSC Breakout Heatmap-3</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/SGSC-4_Breakout_Heatmap.png" target="_blank">SGSC Breakout Heatmap-4</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/SGSC-5_Breakout_Heatmap.png" target="_blank">SGSC Breakout Heatmap-5</a></li></ul>
         </details>
     
 * **SMART-Star:** Data from **114 apartments** in the **USA** from **August 14, 2014, to December 28, 2016 (867 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**.
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
-        <ul><li><a href="Visualization/Data_Quality_Heatmaps/Residential/SMART-Star_data_quality_heatmap.png" target="_blank">SMART-Star Data Quality Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Data_Quality_Heatmaps/Residential/Smart-star_data_quality_heatmap.png" target="_blank">SMART-Star Data Quality Heatmap</a></li></ul>
         </details>
         <details>
         <summary><b>Weather Correlation</b></summary>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SMART-Star_weather_sensitivity_heatmap.png" target="_blank">SMART-Star Weather Sensitivity Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/Smart-star_weather_sensitivity_heatmap.png" target="_blank">SMART-Star Weather Sensitivity Heatmap</a></li></ul>
         </details>
         <details>
         <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/SMART-Star_Breakout_Heatmap.png" target="_blank">SMART-Star Breakout Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/Smart-star_Breakout_Heatmap.png" target="_blank">SMART-Star Breakout Heatmap</a></li></ul>
         </details>
     
 * **SRSA:** Data for **one student residence** in **South Africa** from **April 9, 2016, to January 31, 2018 (662 days)** at a **1-hour resolution**. (CC BY 4.0)
@@ -944,11 +913,19 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         </details>
         <details>
         <summary><b>Weather Correlation</b></summary>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/UKST_weather_sensitivity_heatmap.png" target="_blank">UKST Weather Sensitivity Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/UKST-1_weather_sensitivity_heatmap.png" target="_blank">UKST Weather Sensitivity Heatmap-1</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/UKST-2_weather_sensitivity_heatmap.png" target="_blank">UKST Weather Sensitivity Heatmap-2</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/UKST-3_weather_sensitivity_heatmap.png" target="_blank">UKST Weather Sensitivity Heatmap-3</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/UKST-4_weather_sensitivity_heatmap.png" target="_blank">UKST Weather Sensitivity Heatmap-4</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/UKST-5_weather_sensitivity_heatmap.png" target="_blank">UKST Weather Sensitivity Heatmap-5</a></li></ul>
         </details>
         <details>
         <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/UKST_Breakout_Heatmap.png" target="_blank">UKST Breakout Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/UKST-1_Breakout_Heatmap.png" target="_blank">UKST Breakout Heatmap-1</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/UKST-2_Breakout_Heatmap.png" target="_blank">UKST Breakout Heatmap-2</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/UKST-3_Breakout_Heatmap.png" target="_blank">UKST Breakout Heatmap-3</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/UKST-4_Breakout_Heatmap.png" target="_blank">UKST Breakout Heatmap-4</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/UKST-5_Breakout_Heatmap.png" target="_blank">UKST Breakout Heatmap-5</a></li></ul>
         </details>
     
 * **WED:** Meteorological and load data for **5 households** in **Mexico** spanning **May 19, 2022, to June 1, 2023 (378 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**. (CC BY 4.0)
