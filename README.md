@@ -76,7 +76,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/commercial/BDG-2_Breakout_Heatmap.png" target="_blank">BDG-2 Breakout Heatmap</a></li></ul>
         </details>
     
-* **Berkely:** Includes energy consumption data for **one office building** in **Berkeley, California**, recorded from **January 1, 2018, to January 1, 2021 (1,096 days)**. Data was processed at both **15-minute and 1-hour resolutions**. (CC0 1.0)
+* **Berkely:** Includes energy consumption data for **one office building** in **Berkeley, California**, recorded from **January 1, 2018, to January 1, 2021 (1,096 days)**. Data was processed at both **15-minute, 30-minute and 1-hour resolutions**. (CC0 1.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -106,7 +106,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/commercial/BPDB_Breakout_Heatmap.png" target="_blank">BPDB Breakout Heatmap</a></li></ul>
         </details>
 
-* **CU-BEMS:** Includes data from **one smart building** in **Thailand** recorded from **July 1, 2018, to December 31, 2019 (548 days)**. Originally recorded at 1-minute intervals, it was processed at **15-minute and 1-hour resolutions**. (CC BY 4.0)
+* **CU-BEMS:** Includes data from **one smart building** in **Thailand** recorded from **July 1, 2018, to December 31, 2019 (548 days)**. Originally recorded at 1-minute intervals, it was processed at **15-minute, 30-minute and 1-hour resolutions**. (CC BY 4.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -121,7 +121,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/commercial/CU-BEMS_Breakout_Heatmap.png" target="_blank">CU-BEMS Breakout Heatmap</a></li></ul>
         </details>
     
-* **DGS:** Includes energy consumption data from **322 commercial buildings** in the **USA**, spanning from **January 3, 2016, to December 2, 2018 (1,064 days)**. The processed resolution is **15-minute and 1-hour**. (MIT License)
+* **DGS:** Includes energy consumption data from **322 commercial buildings** in the **USA**, spanning from **January 3, 2016, to December 2, 2018 (1,064 days)**. The processed resolution is **15-minute, 30-minute and 1-hour**. (MIT License)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -151,7 +151,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/commercial/Enernoc_Breakout_Heatmap.png" target="_blank">EnerNOC Breakout Heatmap</a></li></ul>
         </details>
     
-* **EWELD:** Contains electricity consumption from **386 industrial and commercial users** in **Southern China** across 17 industries. It spans from **June 2, 2016, to August 10, 2022 (2,260 days)**, with a processed resolution of **15-minute and 1-hour**. (CC BY 4.0)
+* **EWELD:** Contains electricity consumption from **386 industrial and commercial users** in **Southern China** across 17 industries. It spans from **June 2, 2016, to August 10, 2022 (2,260 days)**, with a processed resolution of **15-minute, 30-minute and 1-hour**. (CC BY 4.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -226,7 +226,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/commercial/IPC-Commercial_Breakout_Heatmap.png" target="_blank">IPC Breakout Heatmap</a></li></ul>
         </details>
     
-* **NEST-Commercial:** Open building data from **one building** in **Switzerland** recorded from **July 1, 2019, to June 30, 2023 (1,460 days)**. Processed at **15-minute and 1-hour resolutions**. (CC BY 4.0)
+* **NEST-Commercial:** Open building data from **one building** in **Switzerland** recorded from **July 1, 2019, to June 30, 2023 (1,460 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**. (CC BY 4.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -271,7 +271,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/commercial/SEWA_Breakout_Heatmap.png" target="_blank">SEWA Breakout Heatmap</a></li></ul>
         </details>
     
-* **SKC:** Contains data from **10 manufacturing factories** in **South Korea** from **March 1, 2019, to September 30, 2019 (213 days)**. Processed at **15-minute and 1-hour resolutions**. (CC BY 4.0)
+* **SKC:** Contains data from **10 manufacturing factories** in **South Korea** from **March 1, 2019, to September 30, 2019 (213 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**. (CC BY 4.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -286,7 +286,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/commercial/SKC_Breakout_Heatmap.png" target="_blank">SKC Breakout Heatmap</a></li></ul>
         </details>
     
-* **UCIE:** Provides electricity data for **370 customers** in **Portugal** from **January 1, 2011, to January 1, 2015 (1,461 days)**. Processed at **15-minute and 1-hour resolutions**. (CC BY 4.0)
+* **UCIE:** Provides electricity data for **370 customers** in **Portugal** from **January 1, 2011, to January 1, 2015 (1,461 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**. (CC BY 4.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -316,7 +316,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/commercial/ULE_Breakout_Heatmap.png" target="_blank">ULE Breakout Heatmap</a></li></ul>
         </details>
     
-* **UNICON:** Includes measurements across **64 buildings** in **Australia** from **January 1, 2018, to April 30, 2022 (1,580 days)** with **15-minute and 1-hour processed resolutions**. (CC BY-NC-SA 4.0)
+* **UNICON:** Includes measurements across **64 buildings** in **Australia** from **January 1, 2018, to April 30, 2022 (1,580 days)** with **15-minute, 30-minute and 1-hour processed resolutions**. (CC BY-NC-SA 4.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -333,7 +333,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
 
 ### Residential Datasets:
 
-* **AMPD:** Comprises **one Canadian household's** data from **April 1, 2012, to April 1, 2014 (730 days)**. Processed at **15-minute and 1-hour resolutions**.
+* **AMPD:** Comprises **one Canadian household's** data from **April 1, 2012, to April 1, 2014 (730 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**.
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -387,7 +387,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/residential/DCB_Breakout_Heatmap.png" target="_blank">DCB Breakout Heatmap</a></li></ul>
         </details>
     
-* **DEDDIAG:** Domestic demand for **15 homes** in **Germany** from **August 10, 2016, to December 9, 2020 (1,582 days)**. Processed at **15-minute and 1-hour resolutions**. (CC BY 4.0)
+* **DEDDIAG:** Domestic demand for **15 homes** in **Germany** from **August 10, 2016, to December 9, 2020 (1,582 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**. (CC BY 4.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -402,7 +402,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/residential/DEDDIAG_Breakout_Heatmap.png" target="_blank">DEDDIAG Breakout Heatmap</a></li></ul>
         </details>
     
-* **DESM:** Meteorological and load data from **3 houses** in **France** from **May 1, 2020, to May 1, 2021 (365 days)**. Processed at **15-minute and 1-hour resolutions**. (CC BY-NC-ND 4.0)
+* **DESM:** Meteorological and load data from **3 houses** in **France** from **May 1, 2020, to May 1, 2021 (365 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**. (CC BY-NC-ND 4.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -417,7 +417,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/residential/DESM_Breakout_Heatmap.png" target="_blank">DESM Breakout Heatmap</a></li></ul>
         </details>
     
-* **DTH:** Data for **1,000 anonymized households** in the **Slovak Republic** for **395 days (January 1, 2016, to January 30, 2017)** at **15-minute and 1-hour resolutions**. (CC BY 4.0)
+* **DTH:** Data for **1,000 anonymized households** in the **Slovak Republic** for **395 days (January 1, 2016, to January 30, 2017)** at **15-minute, 30-minute and 1-hour resolutions**. (CC BY 4.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -432,7 +432,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/residential/DTH_Breakout_Heatmap.png" target="_blank">DTH Breakout Heatmap</a></li></ul>
         </details>
     
-* **ECCG:** PV and consumption profiles for **51 buildings** in **Portugal** for **365 days (January 1, 2019, to January 1, 2020)**. Processed at **15-minute and 1-hour resolutions**. (CC BY-NC-ND 4.0)
+* **ECCG:** PV and consumption profiles for **51 buildings** in **Portugal** for **365 days (January 1, 2019, to January 1, 2020)**. Processed at **15-minute, 30-minute and 1-hour resolutions**. (CC BY-NC-ND 4.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -462,7 +462,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/residential/ECWM_Breakout_Heatmap.png" target="_blank">ECWM Breakout Heatmap</a></li></ul>
         </details>
     
-* **ENERTALK:** Data from **22 residential houses** in **South Korea** from **September 1, 2016, to May 1, 2017 (242 days)** at **15-minute and 1-hour resolutions**. (CC BY 4.0)
+* **ENERTALK:** Data from **22 residential houses** in **South Korea** from **September 1, 2016, to May 1, 2017 (242 days)** at **15-minute, 30-minute and 1-hour resolutions**. (CC BY 4.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -507,7 +507,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/residential/GoiEner_Breakout_Heatmap.png" target="_blank">GoiEner Breakout Heatmap</a></li></ul>
         </details>
     
-* **GREEND:** Power consumption from **7 households** in **Italy and Austria** from **December 6, 2013, to June 29, 2015 (570 days)**. Processed at **15-minute and 1-hour resolutions**.
+* **GREEND:** Power consumption from **7 households** in **Italy and Austria** from **December 6, 2013, to June 29, 2015 (570 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**.
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -537,7 +537,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/residential/HES_Breakout_Heatmap.png" target="_blank">HES Breakout Heatmap</a></li></ul>
         </details>
     
-* **Honda SMART Home:** Data from **one residential home** in **Davis, California**, for the year **2020 (January 1 to December 31; 365 days)**. Processed at **15-minute and 1-hour resolutions**. (CC BY-NC-ND 4.0)
+* **Honda SMART Home:** Data from **one residential home** in **Davis, California**, for the year **2020 (January 1 to December 31; 365 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**. (CC BY-NC-ND 4.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -597,7 +597,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/residential/iFlex_Breakout_Heatmap.png" target="_blank">iFlex Breakout Heatmap</a></li></ul>
         </details>
     
-* **IHEPC:** Measurements from **one house** near **Paris, France**, from **December 16, 2006, to November 26, 2010 (1,441 days)**. Processed at **15-minute and 1-hour resolutions**.
+* **IHEPC:** Measurements from **one house** near **Paris, France**, from **December 16, 2006, to November 26, 2010 (1,441 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**.
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -627,7 +627,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/residential/IPC-Residential_Breakout_Heatmap.png" target="_blank">IPC-Residential Breakout Heatmap</a></li></ul>
         </details>
     
-* **IRH:** Load profiles for an energy community of **15 households** in **Ireland** for **366 days (January 1, 2020, to January 1, 2021)**. Processed at **15-minute and 1-hour resolutions**. (CC BY 4.0)
+* **IRH:** Load profiles for an energy community of **15 households** in **Ireland** for **366 days (January 1, 2020, to January 1, 2021)**. Processed at **15-minute, 30-minute and 1-hour resolutions**. (CC BY 4.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -657,7 +657,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/residential/LCL_Breakout_Heatmap.png" target="_blank">LCL Breakout Heatmap</a></li></ul>
         </details>
     
-* **LEC:** Measurements from **172 buildings** in **Portugal** spanning **May 5, 2022, to September 2, 2023 (485 days)** at **15-minute and 1-hour resolutions**. (CC BY 4.0)
+* **LEC:** Measurements from **172 buildings** in **Portugal** spanning **May 5, 2022, to September 2, 2023 (485 days)** at **15-minute, 30-minute and 1-hour resolutions**. (CC BY 4.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -687,7 +687,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/residential/METER_Breakout_Heatmap.png" target="_blank">METER Breakout Heatmap</a></li></ul>
         </details>
     
-* **MFRED:** Data from **26 apartments** in the **Northeastern USA** for **365 days (January 1, 2019, to January 1, 2020)**. Processed at **15-minute and 1-hour resolutions**. (CC0 1.0)
+* **MFRED:** Data from **26 apartments** in the **Northeastern USA** for **365 days (January 1, 2019, to January 1, 2020)**. Processed at **15-minute, 30-minute and 1-hour resolutions**. (CC0 1.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -717,7 +717,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/residential/MIHEC_Breakout_Heatmap.png" target="_blank">MIHEC Breakout Heatmap</a></li></ul>
         </details>
     
-* **NDB:** Data from **one UK household** in 2022 spanning **April 15 to November 30 (229 days)**. Processed at **15-minute and 1-hour resolutions**. (CC BY 4.0)
+* **NDB:** Data from **one UK household** in 2022 spanning **April 15 to November 30 (229 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**. (CC BY 4.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -732,7 +732,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/residential/NDB_Breakout_Heatmap.png" target="_blank">NDB Breakout Heatmap</a></li></ul>
         </details>
     
-* **NEEA:** Energy metering study data from **206 households** in **Portland** spanning **August 29, 2018, to December 31, 2020 (855 days)**. Processed at **15-minute and 1-hour resolutions**.
+* **NEEA:** Energy metering study data from **206 households** in **Portland** spanning **August 29, 2018, to December 31, 2020 (855 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**.
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -747,7 +747,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/residential/NEEA_Breakout_Heatmap.png" target="_blank">NEEA Breakout Heatmap</a></li></ul>
         </details>
     
-* **NESEMP:** Monitoring project data for **215 households** in **Scotland** from **November 2, 2010, to October 22, 2012 (720 days)**. Processed at **15-minute and 1-hour resolutions**.
+* **NESEMP:** Monitoring project data for **215 households** in **Scotland** from **November 2, 2010, to October 22, 2012 (720 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**.
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -762,7 +762,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/residential/NESEMP_Breakout_Heatmap.png" target="_blank">NESEMP Breakout Heatmap</a></li></ul>
         </details>
     
-* **NEST-Residential:** Open building data from **2 buildings** in **Switzerland** recorded from **July 1, 2019, to June 30, 2023 (1,460 days)**. Processed at **15-minute and 1-hour resolutions**. (CC BY 4.0)
+* **NEST-Residential:** Open building data from **2 buildings** in **Switzerland** recorded from **July 1, 2019, to June 30, 2023 (1,460 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**. (CC BY 4.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -792,7 +792,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/residential/Norwegian_Breakout_Heatmap.png" target="_blank">Norwegian Breakout Heatmap</a></li></ul>
         </details>
     
-* **PES:** Data from **10 private homes** in the **USA and Europe** spanning **June 3, 2011, to January 29, 2014 (971 days)** at **15-minute and 1-hour resolutions**.
+* **PES:** Data from **10 private homes** in the **USA and Europe** spanning **June 3, 2011, to January 29, 2014 (971 days)** at **15-minute, 30-minute and 1-hour resolutions**.
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -807,7 +807,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/residential/PES_Breakout_Heatmap.png" target="_blank">PES Breakout Heatmap</a></li></ul>
         </details>
     
-* **Plegma:** Data from **13 Greek households** spanning **July 11, 2022, to September 30, 2023 (446 days)**. Processed at **15-minute and 1-hour resolutions**. (CC BY 4.0)
+* **Plegma:** Data from **13 Greek households** spanning **July 11, 2022, to September 30, 2023 (446 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**. (CC BY 4.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -822,7 +822,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/residential/Plegma_Breakout_Heatmap.png" target="_blank">Plegma Breakout Heatmap</a></li></ul>
         </details>
     
-* **Prayas:** Data from **116 homes** in **India** from **January 1, 2018, to June 30, 2020 (911 days)** at **15-minute and 1-hour resolutions**.
+* **Prayas:** Data from **116 homes** in **India** from **January 1, 2018, to June 30, 2020 (911 days)** at **15-minute, 30-minute and 1-hour resolutions**.
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -837,7 +837,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/residential/Prayas_Breakout_Heatmap.png" target="_blank">Prayas Breakout Heatmap</a></li></ul>
         </details>
     
-* **REED:** Monitoring data from **46 households** in **Costa Rica** for **384 days (January 12, 2018, to January 31, 2019)**. Processed at **15-minute and 1-hour resolutions**. (CC BY 4.0)
+* **REED:** Monitoring data from **46 households** in **Costa Rica** for **384 days (January 12, 2018, to January 31, 2019)**. Processed at **15-minute, 30-minute and 1-hour resolutions**. (CC BY 4.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -852,7 +852,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/residential/REED_Breakout_Heatmap.png" target="_blank">REED Breakout Heatmap</a></li></ul>
         </details>
     
-* **REFIT:** Electrical measurements for **20 UK households** over **568 days (December 17, 2013, to July 8, 2015)**. Processed at **15-minute and 1-hour resolutions**. (CC BY 4.0)
+* **REFIT:** Electrical measurements for **20 UK households** over **568 days (December 17, 2013, to July 8, 2015)**. Processed at **15-minute, 30-minute and 1-hour resolutions**. (CC BY 4.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -882,7 +882,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/residential/RHC_Breakout_Heatmap.png" target="_blank">RHC Breakout Heatmap</a></li></ul>
         </details>
     
-* **RSL:** High-resolution data for **2,903 households** in **Sri Lanka** spanning **October 1, 2023, to December 23, 2024 (449 days)**. Processed at **15-minute and 1-hour resolutions**.
+* **RSL:** High-resolution data for **2,903 households** in **Sri Lanka** spanning **October 1, 2023, to December 23, 2024 (449 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**.
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -897,7 +897,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/residential/RSL_Breakout_Heatmap.png" target="_blank">RSL Breakout Heatmap</a></li></ul>
         </details>
     
-* **SAVE:** Data for **4,691 households** in the **UK** spanning **July 9, 2016, to December 30, 2018 (904 days)**. Processed at **15-minute and 1-hour resolutions**.
+* **SAVE:** Data for **4,691 households** in the **UK** spanning **July 9, 2016, to December 30, 2018 (904 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**.
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -912,7 +912,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/residential/SAVE_Breakout_Heatmap.png" target="_blank">SAVE Breakout Heatmap</a></li></ul>
         </details>
     
-* **SFAC:** Data for **one apartment** in **China** from **May 31, 2021, to June 1, 2022 (366 days)**. Processed at **15-minute and 1-hour resolutions**. (CC BY 4.0)
+* **SFAC:** Data for **one apartment** in **China** from **May 31, 2021, to June 1, 2022 (366 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**. (CC BY 4.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -957,7 +957,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/residential/SGSC_Breakout_Heatmap.png" target="_blank">SGSC Breakout Heatmap</a></li></ul>
         </details>
     
-* **SMART-Star:** Data from **114 apartments** in the **USA** from **August 14, 2014, to December 28, 2016 (867 days)**. Processed at **15-minute and 1-hour resolutions**.
+* **SMART-Star:** Data from **114 apartments** in the **USA** from **August 14, 2014, to December 28, 2016 (867 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**.
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -1002,7 +1002,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/residential/UKST_Breakout_Heatmap.png" target="_blank">UKST Breakout Heatmap</a></li></ul>
         </details>
     
-* **WED:** Meteorological and load data for **5 households** in **Mexico** spanning **May 19, 2022, to June 1, 2023 (378 days)**. Processed at **15-minute and 1-hour resolutions**. (CC BY 4.0)
+* **WED:** Meteorological and load data for **5 households** in **Mexico** spanning **May 19, 2022, to June 1, 2023 (378 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**. (CC BY 4.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
