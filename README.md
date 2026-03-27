@@ -80,7 +80,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
-        <ul><li><a href="Visualization/Data_Quality_Heatmaps/Commercial/Berkely_data_quality_heatmap.png" target="_blank">Berkely Data Quality Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Data_Quality_Heatmaps/Commercial/Berkeley_data_quality_heatmap.png" target="_blank">Berkely Data Quality Heatmap</a></li></ul>
         </details>
         <details>
         <summary><b>Weather Correlation</b></summary>
@@ -481,7 +481,16 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
-        <ul><li><a href="Visualization/Data_Quality_Heatmaps/Residential/GoiEner_data_quality_heatmap.png" target="_blank">GoiEner Data Quality Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Data_Quality_Heatmaps/Residential/GoiEner_data_quality_heatmap_1.png" target="_blank">GoiEner Data Quality Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Data_Quality_Heatmaps/Residential/GoiEner_data_quality_heatmap_2.png" target="_blank">GoiEner Data Quality Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Data_Quality_Heatmaps/Residential/GoiEner_data_quality_heatmap_3.png" target="_blank">GoiEner Data Quality Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Data_Quality_Heatmaps/Residential/GoiEner_data_quality_heatmap_4.png" target="_blank">GoiEner Data Quality Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Data_Quality_Heatmaps/Residential/GoiEner_data_quality_heatmap_5.png" target="_blank">GoiEner Data Quality Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Data_Quality_Heatmaps/Residential/GoiEner_data_quality_heatmap_6.png" target="_blank">GoiEner Data Quality Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Data_Quality_Heatmaps/Residential/GoiEner_data_quality_heatmap_7.png" target="_blank">GoiEner Data Quality Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Data_Quality_Heatmaps/Residential/GoiEner_data_quality_heatmap_8.png" target="_blank">GoiEner Data Quality Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Data_Quality_Heatmaps/Residential/GoiEner_data_quality_heatmap_9.png" target="_blank">GoiEner Data Quality Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Data_Quality_Heatmaps/Residential/GoiEner_data_quality_heatmap_10.png" target="_blank">GoiEner Data Quality Heatmap</a></li></ul>
         </details>
         <details>
         <summary><b>Weather Correlation</b></summary>
