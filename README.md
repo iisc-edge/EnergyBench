@@ -64,15 +64,15 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
 * **BDG-2:** An open-access dataset comprising time-series data from **1,578 buildings** in the **USA**. The dataset spans from **January 1, 2016, to December 31, 2017 (730 days)**, with an **hourly processed resolution** capturing electricity usage and other system activities. (CC BY 4.0)
     * **Visualizations:**
         <details>
-        <summary><b>Data Quality (Click to expand)</b></summary>
+        <summary><b>Data Quality</b></summary>
         <ul><li><a href="Visualization/Data_Quality_Heatmaps/commercial/BDG-2_data_quality_heatmap.png" target="_blank">BDG-2 Data Quality Heatmap</a></li></ul>
         </details>
         <details>
-        <summary><b>Weather Correlation (Click to expand)</b></summary>
+        <summary><b>Weather Correlation</b></summary>
         <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/commercial/BDG-2_weather_sensitivity_heatmap.png" target="_blank">BDG-2 Weather Sensitivity Heatmap</a></li></ul>
         </details>
         <details>
-        <summary><b>Breakout (Click to expand)</b></summary>
+        <summary><b>Breakout</b></summary>
         <ul><li><a href="Visualization/Breakout_Heatmaps/commercial/BDG-2_Breakout_Heatmap.png" target="_blank">BDG-2 Breakout Heatmap</a></li></ul>
         </details>
     
@@ -353,21 +353,21 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
 * **CEEW:** Electricity consumption from **84 smart meters** in **India** spanning **May 1, 2019, to October 31, 2021 (914 days)**. Processed at **3-minute, 15-minute, and 1-hour resolutions**. (CC0 1.0)
     * **Visualizations:**
         <details>
-        <summary><b>Data Quality (Click to expand)</b></summary>
+        <summary><b>Data Quality</b></summary>
         <ul>
             <li><a href="Visualization/Data_Quality_Heatmaps/residential/CEEW_Bareilly_data_quality_heatmap.png" target="_blank">Bareilly District</a></li>
             <li><a href="Visualization/Data_Quality_Heatmaps/residential/CEEW_Mathura_data_quality_heatmap.png" target="_blank">Mathura District</a></li>
         </ul>
         </details>
         <details>
-        <summary><b>Weather Correlation (Click to expand)</b></summary>
+        <summary><b>Weather Correlation</b></summary>
         <ul>
             <li><a href="Visualization/Weather_Correlation_Heatmaps/residential/CEEW_Bareilly_weather_sensitivity_heatmap.png" target="_blank">Bareilly District</a></li>
             <li><a href="Visualization/Weather_Correlation_Heatmaps/residential/CEEW_Mathura_weather_sensitivity_heatmap.png" target="_blank">Mathura District</a></li>
         </ul>
         </details>
         <details>
-        <summary><b>Breakout (Click to expand)</b></summary>
+        <summary><b>Breakout</b></summary>
         <ul>
             <li><a href="Visualization/Breakout_Heatmaps/residential/CEEW_Bareilly_Breakout_Heatmap.png" target="_blank">Bareilly District</a></li>
             <li><a href="Visualization/Breakout_Heatmaps/residential/CEEW_Mathura_Breakout_Heatmap.png" target="_blank">Mathura District</a></li>
