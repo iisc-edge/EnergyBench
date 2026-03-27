@@ -331,8 +331,6 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/commercial/UNICON_Breakout_Heatmap.png" target="_blank">UNICON Breakout Heatmap</a></li></ul>
         </details>
 
----
-
 ### Residential Datasets:
 
 * **AMPD:** Comprises **one Canadian household's** data from **April 1, 2012, to April 1, 2014 (730 days)**. Processed at **15-minute and 1-hour resolutions**.
