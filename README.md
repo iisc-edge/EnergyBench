@@ -59,7 +59,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
 | Commercial  | 1           | 207,559      | 365     | ~1.7B  |
 | Residential | 4           | ~120M        | 966     | ~1044B |
 
-### Commercial Datasets
+### Commercial Datasets:
 
 *   **BDG-2:** An open-access dataset comprising time-series data from **1,578 buildings** in the **USA**. The dataset spans from **January 1, 2016, to December 31, 2017 (730 days)**, with an **hourly processed resolution** capturing electricity usage and other system activities. (CC BY 4.0)
     
@@ -97,7 +97,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
     
 *   **UNICON:** Includes measurements across **64 buildings** in **Australia** from **January 1, 2018, to April 30, 2022 (1,580 days)** with **15-minute and 1-hour processed resolutions**. (CC BY-NC-SA 4.0)
 
-### Residential Datasets
+### Residential Datasets:
 
 *   **AMPD:** Comprises **one Canadian household's** data from **April 1, 2012, to April 1, 2014 (730 days)**. Processed at **15-minute and 1-hour resolutions**.
     
