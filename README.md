@@ -470,11 +470,16 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         </details>
         <details>
         <summary><b>Weather Correlation</b></summary>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/GoiEner_weather_sensitivity_heatmap.png" target="_blank">GoiEner Weather Sensitivity Heatmap</a></li></ul>
-        </details>
-        <details>
-        <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/GoiEner_Breakout_Heatmap.png" target="_blank">GoiEner Breakout Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/GoiEner-1_weather_sensitivity_heatmap.png" target="_blank">GoiEner Weather Sensitivity Heatmap-1</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/GoiEner-2_weather_sensitivity_heatmap.png" target="_blank">GoiEner Weather Sensitivity Heatmap-2</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/GoiEner-3_weather_sensitivity_heatmap.png" target="_blank">GoiEner Weather Sensitivity Heatmap-3</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/GoiEner-4_weather_sensitivity_heatmap.png" target="_blank">GoiEner Weather Sensitivity Heatmap-4</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/GoiEner-5_weather_sensitivity_heatmap.png" target="_blank">GoiEner Weather Sensitivity Heatmap-5</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/GoiEner-6_weather_sensitivity_heatmap.png" target="_blank">GoiEner Weather Sensitivity Heatmap-6</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/GoiEner-7_weather_sensitivity_heatmap.png" target="_blank">GoiEner Weather Sensitivity Heatmap-7</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/GoiEner-8_weather_sensitivity_heatmap.png" target="_blank">GoiEner Weather Sensitivity Heatmap-8</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/GoiEner-9_weather_sensitivity_heatmap.png" target="_blank">GoiEner Weather Sensitivity Heatmap-9</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/GoiEner-10_weather_sensitivity_heatmap.png" target="_blank">GoiEner Weather Sensitivity Heatmap-10</a></li></ul>
         </details>
     
 * **GREEND:** Power consumption from **7 households** in **Italy and Austria** from **December 6, 2013, to June 29, 2015 (570 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**.
