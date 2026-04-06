@@ -69,11 +69,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         </details>
         <details>
         <summary><b>Weather Correlation</b></summary>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Commercial/BDG-2_weather_sensitivity_part_1.png" target="_blank">BDG-2 Weather Sensitivity Heatmap-1</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Commercial/BDG-2_weather_sensitivity_part_2.png" target="_blank">BDG-2 Weather Sensitivity Heatmap-2</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Commercial/BDG-2_weather_sensitivity_part_3.png" target="_blank">BDG-2 Weather Sensitivity Heatmap-3</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Commercial/BDG-2_weather_sensitivity_part_4.png" target="_blank">BDG-2 Weather Sensitivity Heatmap-4</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Commercial/BDG-2_weather_sensitivity_part_5.png" target="_blank">BDG-2 Weather Sensitivity Heatmap-5</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Commercial/BDG-2_weather_sensitivity_heatmap.png" target="_blank">BDG-2 Weather Sensitivity Heatmap</a></li></ul>
         </details>
         <details>
         <summary><b>Breakout</b></summary>
@@ -409,11 +405,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         </details>
         <details>
         <summary><b>Weather Correlation</b></summary>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/DTH_weather_sensitivity_part_1.png" target="_blank">DTH Weather Sensitivity Heatmap-1</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/DTH_weather_sensitivity_part_2.png" target="_blank">DTH Weather Sensitivity Heatmap-2</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/DTH_weather_sensitivity_part_3.png" target="_blank">DTH Weather Sensitivity Heatmap-3</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/DTH_weather_sensitivity_part_4.png" target="_blank">DTH Weather Sensitivity Heatmap-4</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/DTH_weather_sensitivity_part_5.png" target="_blank">DTH Weather Sensitivity Heatmap-5</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/DTH_weather_sensitivity_heatmap.png" target="_blank">DTH Weather Sensitivity Heatmap</a></li></ul>
         </details>
         <details>
         <summary><b>Breakout</b></summary>
@@ -617,11 +609,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         </details>
         <details>
         <summary><b>Weather Correlation</b></summary>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/LCL-1_weather_sensitivity_heatmap.png" target="_blank">LCL Weather Sensitivity Heatmap-1</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/LCL-2_weather_sensitivity_heatmap.png" target="_blank">LCL Weather Sensitivity Heatmap-2</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/LCL-3_weather_sensitivity_heatmap.png" target="_blank">LCL Weather Sensitivity Heatmap-3</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/LCL-4_weather_sensitivity_heatmap.png" target="_blank">LCL Weather Sensitivity Heatmap-4</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/LCL-5_weather_sensitivity_heatmap.png" target="_blank">LCL Weather Sensitivity Heatmap-5</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/LCL_weather_sensitivity_heatmap.png" target="_blank">LCL Weather Sensitivity Heatmap</a></li></ul>
         </details>
         <details>
         <summary><b>Breakout</b></summary>
@@ -726,11 +714,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         </details>
         <details>
         <summary><b>Weather Correlation</b></summary>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/Norwegian-1_weather_sensitivity_heatmap.png" target="_blank">Norwegian Weather Sensitivity Heatmap-1</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/Norwegian-2_weather_sensitivity_heatmap.png" target="_blank">Norwegian Weather Sensitivity Heatmap-2</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/Norwegian-3_weather_sensitivity_heatmap.png" target="_blank">Norwegian Weather Sensitivity Heatmap-3</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/Norwegian-4_weather_sensitivity_heatmap.png" target="_blank">Norwegian Weather Sensitivity Heatmap-4</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/Norwegian-5_weather_sensitivity_heatmap.png" target="_blank">Norwegian Weather Sensitivity Heatmap-5</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/Norwegian_weather_sensitivity_heatmap.png" target="_blank">Norwegian Weather Sensitivity Heatmap</a></li></ul>
         </details>
         <details>
         <summary><b>Breakout</b></summary>
@@ -816,11 +800,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         </details>
         <details>
         <summary><b>Weather Correlation</b></summary>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SAVE-1_weather_sensitivity_heatmap.png" target="_blank">SAVE Weather Sensitivity Heatmap-1</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SAVE-2_weather_sensitivity_heatmap.png" target="_blank">SAVE Weather Sensitivity Heatmap-2</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SAVE-3_weather_sensitivity_heatmap.png" target="_blank">SAVE Weather Sensitivity Heatmap-3</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SAVE-4_weather_sensitivity_heatmap.png" target="_blank">SAVE Weather Sensitivity Heatmap-4</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SAVE-5_weather_sensitivity_heatmap.png" target="_blank">SAVE Weather Sensitivity Heatmap-5</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SAVE_weather_sensitivity_heatmap.png" target="_blank">SAVE Weather Sensitivity Heatmap</a></li></ul>
         </details>
         <details>
         <summary><b>Breakout</b></summary>
@@ -865,11 +845,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         </details>
         <details>
         <summary><b>Weather Correlation</b></summary>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SGSC-1_weather_sensitivity_heatmap.png" target="_blank">SGSC Weather Sensitivity Heatmap-1</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SGSC-2_weather_sensitivity_heatmap.png" target="_blank">SGSC Weather Sensitivity Heatmap-2</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SGSC-3_weather_sensitivity_heatmap.png" target="_blank">SGSC Weather Sensitivity Heatmap-3</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SGSC-4_weather_sensitivity_heatmap.png" target="_blank">SGSC Weather Sensitivity Heatmap-4</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SGSC-5_weather_sensitivity_heatmap.png" target="_blank">SGSC Weather Sensitivity Heatmap-5</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/SGSC_weather_sensitivity_heatmap.png" target="_blank">SGSC Weather Sensitivity Heatmap</a></li></ul>
         </details>
         <details>
         <summary><b>Breakout</b></summary>
@@ -918,11 +894,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         </details>
         <details>
         <summary><b>Weather Correlation</b></summary>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/UKST-1_weather_sensitivity_heatmap.png" target="_blank">UKST Weather Sensitivity Heatmap-1</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/UKST-2_weather_sensitivity_heatmap.png" target="_blank">UKST Weather Sensitivity Heatmap-2</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/UKST-3_weather_sensitivity_heatmap.png" target="_blank">UKST Weather Sensitivity Heatmap-3</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/UKST-4_weather_sensitivity_heatmap.png" target="_blank">UKST Weather Sensitivity Heatmap-4</a></li></ul>
-        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/UKST-5_weather_sensitivity_heatmap.png" target="_blank">UKST Weather Sensitivity Heatmap-5</a></li></ul>
+        <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/UKST_weather_sensitivity_heatmap.png" target="_blank">UKST Weather Sensitivity Heatmap</a></li></ul>
         </details>
         <details>
         <summary><b>Breakout</b></summary>
