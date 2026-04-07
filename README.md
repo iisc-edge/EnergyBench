@@ -61,7 +61,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
 
 ### Commercial Datasets:
 
-* **BDG-2:** An open-access dataset comprising time-series data from **1,578 buildings** in the **USA**. The dataset spans from **January 1, 2016, to December 31, 2017 (730 days)**, with an **hourly processed resolution** capturing electricity usage and other system activities. (CC BY 4.0)
+* **BDG-2:** An open-access dataset comprising time-series data from **1,578 buildings** in the **USA**. The dataset spans from **January 1, 2016, to December 31, 2017 (730 days)**, with an **hourly processed resolution** capturing electricity usage, heating and cooling water flow, steam consumption, and irrigation system activity. (CC BY 4.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
@@ -76,7 +76,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Breakout_Heatmaps/Commercial/BDG-2_Breakout_Heatmap.png" target="_blank">BDG-2 Breakout Heatmap</a></li></ul>
         </details>
     
-* **Berkely:** Includes energy consumption data for **one office building** in **Berkeley, California**, recorded from **January 1, 2018, to January 1, 2021 (1,096 days)**. Data was processed at both **15-minute, 30-minute and 1-hour resolutions**. (CC0 1.0)
+* **Berkely:** Includes energy consumption data for **one office building** in **Berkeley, California** which was constructed in 2015, under various HVAC system operating conditions. It also includes indoor and outdoor environmental parameters for the building. The data is recorded from **January 1, 2018, to January 1, 2021 (1,096 days)**. Data was processed at both **15-minute, 30-minute and 1-hour resolutions**. (CC0 1.0)
     * **Visualizations:**
         <details>
         <summary><b>Data Quality</b></summary>
