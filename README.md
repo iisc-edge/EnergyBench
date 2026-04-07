@@ -861,7 +861,7 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         </details>
         <details>
         <summary><b>Breakout</b></summary>
-        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/SAVE_Breakout_Heatmap.png" target="_blank">HUE Breakout Heatmap</a></li></ul>
+        <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/SAVE_Breakout_Heatmap.png" target="_blank">SAVE Breakout Heatmap</a></li></ul>
         </details>
     
 * **SFAC:** Data for **one apartment** in **China** from **May 31, 2021, to June 1, 2022 (366 days)**. Processed at **15-minute, 30-minute and 1-hour resolutions**. (CC BY 4.0)
