@@ -665,7 +665,6 @@ Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
         <ul><li><a href="Visualization/Weather_Correlation_Heatmaps/Residential/LCL_weather_sensitivity_heatmap.png" target="_blank">LCL Weather Sensitivity Heatmap</a></li></ul>
         </details>
         <details>
-        <details>
         <summary><b>Breakout</b></summary>
         <ul><li><a href="Visualization/Breakout_Heatmaps/Residential/LCL_Breakout_Heatmap.png" target="_blank">LCL Breakout Heatmap</a></li></ul>
         </details>
