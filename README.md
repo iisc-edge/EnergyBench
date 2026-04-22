@@ -7,7 +7,7 @@ Energy data analytics is crucial for optimizing energy consumption, improving op
 <!--, and a synthetic subset of 120 million building time series generated using energy simulation models. -->
 
 Along with the dataset , we also benchmark a variety of traditional and foundation models for STLF and analyze their performance across different regions.
-We provide an Hugging Face Dataset for multiple real building and synthetic energy consumption datasets as Pandas DataFrames in Parquet, simple (naive) to advanced (TSFM) baselines, metrics management, and more.
+We provide an Hugging Face Dataset for multiple real building energy consumption datasets as Pandas DataFrames in Parquet, simple (naive) to advanced (TSFM) baselines, metrics management, and more.
 
 ## Getting Started
 We recommend using [Anaconda](https://www.anaconda.com/download) to run the experiments. Create the separate conda environment using the (modelname)_environment.yml found
