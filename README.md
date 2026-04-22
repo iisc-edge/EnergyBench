@@ -52,12 +52,15 @@ Table 1: Summary of EnergBench dataset (Real Buildings)
 | Commercial  | 20          | 2,916        | 16,706  | 62M    |
 | Residential | 47          | 75,121       | 43,852  | 1.2B   |
 
+
+<!--
 Table 2: Summary of EnergBench dataset (Synthetic and Simulated Buildings)
 
 | Category    | # Datasets | # Buildings | # Days | # Hourly Obs |
 |-------------|-------------|--------------|---------|--------|
 | Commercial  | 1           | 207,559      | 365     | ~1.7B  |
 | Residential | 4           | ~120M        | 966     | ~1044B |
+-->
 
 ### Commercial Datasets:
 
